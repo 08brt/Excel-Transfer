@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ExcelTransferProgram:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eef3e30a-d4cb-471f-ae4e-b910ed353bdf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fOxEnm7oXkaHrnJN99zKvWV2ik" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\WielochB\IdeaProjects\TESTEXCEL\src\ExcelFile" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ExcelTransferProgram" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="WindowStateProjectService">
+    <state x="760" y="99" key="#Project_Structure" timestamp="1597139624673">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="760" y="99" key="#Project_Structure/2560.0.1536.840/0.0.2560.1050@0.0.2560.1050" timestamp="1597139624673" />
+    <state x="1121" y="325" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1597153286906">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1121" y="325" key="#com.intellij.ide.util.TreeClassChooserDialog/2560.0.1536.840/0.0.2560.1050@0.0.2560.1050" timestamp="1597153286906" />
+    <state x="1700" y="280" key="FileChooserDialogImpl" timestamp="1596103024814">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1700" y="280" key="FileChooserDialogImpl/2560.0.1536.840/0.0.2560.1050@0.0.2560.1050" timestamp="1596103024814" />
+    <state width="2517" height="268" key="GridCell.Tab.0.bottom" timestamp="1597158976823">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="2517" height="268" key="GridCell.Tab.0.bottom/2560.0.1536.840/0.0.2560.1050@0.0.2560.1050" timestamp="1597158976823" />
+    <state width="2517" height="268" key="GridCell.Tab.0.center" timestamp="1597158976823">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="2517" height="268" key="GridCell.Tab.0.center/2560.0.1536.840/0.0.2560.1050@0.0.2560.1050" timestamp="1597158976823" />
+    <state width="2517" height="268" key="GridCell.Tab.0.left" timestamp="1597158976822">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="2517" height="268" key="GridCell.Tab.0.left/2560.0.1536.840/0.0.2560.1050@0.0.2560.1050" timestamp="1597158976822" />
+    <state width="2517" height="268" key="GridCell.Tab.0.right" timestamp="1597158976823">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="2517" height="268" key="GridCell.Tab.0.right/2560.0.1536.840/0.0.2560.1050@0.0.2560.1050" timestamp="1597158976823" />
+    <state x="871" y="109" key="SettingsEditor" timestamp="1597153294037">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="871" y="109" key="SettingsEditor/2560.0.1536.840/0.0.2560.1050@0.0.2560.1050" timestamp="1597153294037" />
+    <state x="917" y="0" width="898" height="1057" key="dock-window-1" timestamp="1597139638610">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="917" y="0" width="898" height="1057" key="dock-window-1/2560.0.1536.840/0.0.2560.1050@0.0.2560.1050" timestamp="1597139638610" />
+    <state x="1678" y="0" width="898" height="1057" key="dock-window-2" timestamp="1597139638610">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1678" y="0" width="898" height="1057" key="dock-window-2/2560.0.1536.840/0.0.2560.1050@0.0.2560.1050" timestamp="1597139638610" />
+    <state x="1627" y="124" width="585" height="801" key="find.popup" timestamp="1596104156371">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1627" y="124" width="585" height="801" key="find.popup/2560.0.1536.840/0.0.2560.1050@0.0.2560.1050" timestamp="1596104156371" />
+    <state x="371" y="193" key="new project wizard" timestamp="1598357550144">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="371" y="193" key="new project wizard/2560.0.1536.840/0.0.2560.1050@0.0.2560.1050" timestamp="1598357550144" />
+    <state x="303" y="233" width="672" height="678" key="search.everywhere.popup" timestamp="1597149295587">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="303" y="233" width="672" height="678" key="search.everywhere.popup/2560.0.1536.840/0.0.2560.1050@0.0.2560.1050" timestamp="1597149295587" />
+  </component>
+</project>
